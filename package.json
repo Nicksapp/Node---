@@ -1,0 +1,26 @@
+{
+  "name": "douban_crawling",
+  "version": "1.0.0",
+  "description": "douban crawling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicksapp/douban_Crawling.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "nicksapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicksapp/douban_Crawling/issues"
+  },
+  "homepage": "https://github.com/Nicksapp/douban_Crawling#readme",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.2",
+    "superagent": "3.8.2"
+  }
+}
